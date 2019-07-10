@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>click-fraud on Shahrear Iqbal</title>
+    <link>http://cs.queensu.ca/~iqbal/tags/click-fraud/</link>
+    <description>Recent content in click-fraud on Shahrear Iqbal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
+    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cs.queensu.ca/~iqbal/tags/click-fraud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Protecting Devices from Click-Fraud</title>
+      <link>http://cs.queensu.ca/~iqbal/project/cf/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cs.queensu.ca/~iqbal/project/cf/</guid>
+      <description>Pay-Per-Click (PPC) ad networks charge advertisers for every click on their ads. Click-fraud happens when a user or an automated software clicks on an ad with a malicious intent and advertisers need to pay for those valueless clicks. Click-fraud has been proved to be a serious problem for the online advertisement industry. Although it has attracted much attention from the security community, the direct victims of click-fraud, the advertisers, still lack confidence in the click-fraud detection techniques.</description>
+    </item>
+    
+  </channel>
+</rss>
