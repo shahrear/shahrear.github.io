@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>car-security on Shahrear Iqbal</title>
-    <link>http://shahreariqbal.com/tags/car-security/</link>
+    <link>https://shahrear.github.io/tags/car-security/</link>
     <description>Recent content in car-security on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://shahreariqbal.com/tags/car-security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shahrear.github.io/tags/car-security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Autonomous/Connected Vehicle Security</title>
-      <link>http://shahreariqbal.com/project/car/</link>
+      <link>https://shahrear.github.io/project/car/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://shahreariqbal.com/project/car/</guid>
+      <guid>https://shahrear.github.io/project/car/</guid>
       <description>Protecting Intra-Vehicle Communication in Connected Cars.</description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Shahrear Iqbal</title>
-    <link>http://shahreariqbal.com/talk/</link>
+    <link>https://shahrear.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://shahreariqbal.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shahrear.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

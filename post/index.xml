@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shahrear Iqbal</title>
-    <link>http://shahreariqbal.com/post/</link>
+    <link>https://shahrear.github.io/post/</link>
     <description>Recent content in Posts on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://shahreariqbal.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shahrear.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>http://shahreariqbal.com/post/getting-started/</link>
+      <link>https://shahrear.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/getting-started/</guid>
+      <guid>https://shahrear.github.io/post/getting-started/</guid>
       <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
     </item>
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>http://shahreariqbal.com/post/widgets/</link>
+      <link>https://shahrear.github.io/post/widgets/</link>
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/widgets/</guid>
+      <guid>https://shahrear.github.io/post/widgets/</guid>
       <description>Enable/disable and configure widgets to customize your homepage.</description>
     </item>
     
     <item>
       <title>Managing content</title>
-      <link>http://shahreariqbal.com/post/managing-content/</link>
+      <link>https://shahrear.github.io/post/managing-content/</link>
       <pubDate>Mon, 18 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://shahreariqbal.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://shahrear.github.io/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://shahrear.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>http://shahreariqbal.com/post/writing-markdown-latex/</link>
+      <link>https://shahrear.github.io/post/writing-markdown-latex/</link>
       <pubDate>Sun, 17 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/writing-markdown-latex/</guid>
+      <guid>https://shahrear.github.io/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
-      <link>http://shahreariqbal.com/post/faq/</link>
+      <link>https://shahrear.github.io/post/faq/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/faq/</guid>
+      <guid>https://shahrear.github.io/post/faq/</guid>
       <description>Troubleshoot common issues.</description>
     </item>
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>http://shahreariqbal.com/post/migrate-from-jekyll/</link>
+      <link>https://shahrear.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0300</pubDate>
       
-      <guid>http://shahreariqbal.com/post/migrate-from-jekyll/</guid>
+      <guid>https://shahrear.github.io/post/migrate-from-jekyll/</guid>
       <description>Learn how to migrate an existing website from Jekyll to Hugo.</description>
     </item>
     
