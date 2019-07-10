@@ -2,66 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shahrear Iqbal</title>
-    <link>http://cs.queensu.ca/~iqbal/tags/</link>
+    <link>http://shahreariqbal.com/tags/</link>
     <description>Recent content in Tags on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
+    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cs.queensu.ca/~iqbal/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shahreariqbal.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>academic</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://cs.queensu.ca/~iqbal/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>car-security</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/car-security/</link>
+      <link>http://shahreariqbal.com/tags/car-security/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/tags/car-security/</guid>
+      <guid>http://shahreariqbal.com/tags/car-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>click-fraud</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/click-fraud/</link>
+      <link>http://shahreariqbal.com/tags/click-fraud/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/tags/click-fraud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://cs.queensu.ca/~iqbal/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
-      
-      <guid>http://cs.queensu.ca/~iqbal/tags/jekyll/</guid>
+      <guid>http://shahreariqbal.com/tags/click-fraud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>os-security</title>
-      <link>http://cs.queensu.ca/~iqbal/tags/os-security/</link>
+      <link>http://shahreariqbal.com/tags/os-security/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/tags/os-security/</guid>
+      <guid>http://shahreariqbal.com/tags/os-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>http://shahreariqbal.com/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://shahreariqbal.com/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://shahreariqbal.com/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://shahreariqbal.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>http://shahreariqbal.com/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 -0300</pubDate>
+      
+      <guid>http://shahreariqbal.com/tags/jekyll/</guid>
       <description></description>
     </item>
     

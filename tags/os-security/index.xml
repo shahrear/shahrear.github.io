@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>os-security on Shahrear Iqbal</title>
-    <link>http://cs.queensu.ca/~iqbal/tags/os-security/</link>
+    <link>http://shahreariqbal.com/tags/os-security/</link>
     <description>Recent content in os-security on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cs.queensu.ca/~iqbal/tags/os-security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shahreariqbal.com/tags/os-security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Operating System Security</title>
-      <link>http://cs.queensu.ca/~iqbal/project/sam/</link>
+      <link>http://shahreariqbal.com/project/sam/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/project/sam/</guid>
-      <description>Smartphones have become an integral part of our daily lives that offer a multitude of features in a small form factor. Users store sensitive personal information on their phones and perform financial transactions. Moreover, people use their personal phones to access corporate/government resources and vice versa. We perform tasks on smartphones that require multiple security models to execute the tasks securely. However, most smartphone operating systems need to focus on the usability which compromises security.</description>
+      <guid>http://shahreariqbal.com/project/sam/</guid>
+      <description>A Security Framework for Smartphone Operating Systems.</description>
     </item>
     
   </channel>

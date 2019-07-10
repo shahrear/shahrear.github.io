@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Shahrear Iqbal</title>
-    <link>http://cs.queensu.ca/~iqbal/publication/</link>
+    <link>http://shahreariqbal.com/publication/</link>
     <description>Recent content in Publications on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cs.queensu.ca/~iqbal/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shahreariqbal.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Towards a Security Architecture for Protecting Connected Vehicles from Malware</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/carmalware/</link>
+      <link>http://shahreariqbal.com/publication/carmalware/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/carmalware/</guid>
+      <guid>http://shahreariqbal.com/publication/carmalware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Vehicle ECU Communications and Stored Data</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/canpki/</link>
+      <link>http://shahreariqbal.com/publication/canpki/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/canpki/</guid>
+      <guid>http://shahreariqbal.com/publication/canpki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpyDroid: A Framework for Employing Multiple Malware Detectors on Android</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/spydroid/</link>
+      <link>http://shahreariqbal.com/publication/spydroid/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/spydroid/</guid>
+      <guid>http://shahreariqbal.com/publication/spydroid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing web applications with secure coding practices and integrity verification</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/secsofteng/</link>
+      <link>http://shahreariqbal.com/publication/secsofteng/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/secsofteng/</guid>
+      <guid>http://shahreariqbal.com/publication/secsofteng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptive Dataset for the Evaluation of Android Malware Detection Techniques</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/maldataset/</link>
+      <link>http://shahreariqbal.com/publication/maldataset/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/maldataset/</guid>
+      <guid>http://shahreariqbal.com/publication/maldataset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Droid Mood Swing (DMS): Automatic Security Modes based on Contexts</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/dms/</link>
+      <link>http://shahreariqbal.com/publication/dms/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/dms/</guid>
+      <guid>http://shahreariqbal.com/publication/dms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Internet users from becoming victimized attackers of click-fraud.</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/cfj/</link>
+      <link>http://shahreariqbal.com/publication/cfj/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/cfj/</guid>
+      <guid>http://shahreariqbal.com/publication/cfj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flamingo: A Framework for Smartphone Security Context Management</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/flamingo/</link>
+      <link>http://shahreariqbal.com/publication/flamingo/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/flamingo/</guid>
+      <guid>http://shahreariqbal.com/publication/flamingo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZoneDroid: Control your Droid through Application Zoning</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/zonedroid/</link>
+      <link>http://shahreariqbal.com/publication/zonedroid/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/zonedroid/</guid>
+      <guid>http://shahreariqbal.com/publication/zonedroid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM: A Secure Anti-Malware Framework for the 	Smartphone Operating Systems</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/sam/</link>
+      <link>http://shahreariqbal.com/publication/sam/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/sam/</guid>
+      <guid>http://shahreariqbal.com/publication/sam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FCFraud: Fighting Click-Fraud from the User Side.</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/cf/</link>
+      <link>http://shahreariqbal.com/publication/cf/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/cf/</guid>
+      <guid>http://shahreariqbal.com/publication/cf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information and Communication Technology (ICT)</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/ict/</link>
+      <link>http://shahreariqbal.com/publication/ict/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/ict/</guid>
+      <guid>http://shahreariqbal.com/publication/ict/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving the Multi-dimensional Multi- choice Knapsack Problem with the Help of Ants</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/ant/</link>
+      <link>http://shahreariqbal.com/publication/ant/</link>
       <pubDate>Wed, 08 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/ant/</guid>
+      <guid>http://shahreariqbal.com/publication/ant/</guid>
       <description></description>
     </item>
     

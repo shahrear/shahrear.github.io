@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shahrear Iqbal</title>
-    <link>http://cs.queensu.ca/~iqbal/categories/</link>
+    <link>http://shahreariqbal.com/categories/</link>
     <description>Recent content in Categories on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
     
-	<atom:link href="http://cs.queensu.ca/~iqbal/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shahreariqbal.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

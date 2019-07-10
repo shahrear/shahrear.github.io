@@ -1,76 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shahrear Iqbal on Shahrear Iqbal</title>
-    <link>http://cs.queensu.ca/~iqbal/</link>
+    <link>http://shahreariqbal.com/</link>
     <description>Recent content in Shahrear Iqbal on Shahrear Iqbal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Shahrear Iqbal</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/~iqbal/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Towards a Security Architecture for Protecting Connected Vehicles from Malware</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/carmalware/</link>
+      <link>http://shahreariqbal.com/publication/carmalware/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/carmalware/</guid>
+      <guid>http://shahreariqbal.com/publication/carmalware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Vehicle ECU Communications and Stored Data</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/canpki/</link>
+      <link>http://shahreariqbal.com/publication/canpki/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/canpki/</guid>
+      <guid>http://shahreariqbal.com/publication/canpki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpyDroid: A Framework for Employing Multiple Malware Detectors on Android</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/spydroid/</link>
+      <link>http://shahreariqbal.com/publication/spydroid/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/spydroid/</guid>
+      <guid>http://shahreariqbal.com/publication/spydroid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing web applications with secure coding practices and integrity verification</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/secsofteng/</link>
+      <link>http://shahreariqbal.com/publication/secsofteng/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/secsofteng/</guid>
+      <guid>http://shahreariqbal.com/publication/secsofteng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptive Dataset for the Evaluation of Android Malware Detection Techniques</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/maldataset/</link>
+      <link>http://shahreariqbal.com/publication/maldataset/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/maldataset/</guid>
+      <guid>http://shahreariqbal.com/publication/maldataset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous/Connected Vehicle Security</title>
-      <link>http://cs.queensu.ca/~iqbal/project/car/</link>
+      <link>http://shahreariqbal.com/project/car/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/project/car/</guid>
+      <guid>http://shahreariqbal.com/project/car/</guid>
       <description>&lt;p&gt;Cybersecurity is one of the biggest threats in autonomous cars as vehicle connectivity is a new paradigm and the technology continues to evolve rapidly. One of the central challenges in vehicle cybersecurity is to secure the communication between various electronic components in a car (known as electronic control units, or ECUs) which are connected via an internal network. If hackers manage to gain access to a vulnerable, peripheral ECU (e.g., the Bluetooth or infotainment system), they may be able to take control of other safety-critical ECUs like brakes or the engine. In my research, I am experimenting with Blockchain, cryptography, safe networks, and distributed database security techniques to preserve data integrity between ECUs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Operating System Security</title>
-      <link>http://cs.queensu.ca/~iqbal/project/sam/</link>
+      <link>http://shahreariqbal.com/project/sam/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/project/sam/</guid>
+      <guid>http://shahreariqbal.com/project/sam/</guid>
       <description>&lt;p&gt;Smartphones have become an integral part of our daily lives that offer a multitude of features in a small form factor. Users store sensitive personal information on their phones and perform financial transactions. Moreover, people use their personal phones to access corporate/government resources and vice versa. We perform tasks on smartphones that require multiple security models to execute the tasks securely. However, most smartphone operating systems need to focus on the usability which compromises security.&lt;/p&gt;
 
 &lt;p&gt;In this project, we present a security framework for smartphone operating systems. The core idea of the framework resembles the security of a modern smart city. The operating system acts as the government of the city and the applications are the citizens. It has components to protect resources and perform policing (monitor, detect, and control). There are multiple application zones with different security constraints. Smartphones with this framework automatically switch to a different security mode based on the detected context to satisfy the security requirements in different use cases. Installed applications are monitored to identify anomalous behavior as well as certain specific malicious behavior like click-fraud. The operation of the framework is mostly automated and requires no input from users for default operations. We implement a significant portion of the framework for Android and our experiments suggest that the framework improves the overall security of Android increasing its ability to protect user resources as well as to detect and control malware.&lt;/p&gt;
@@ -79,65 +78,65 @@
     
     <item>
       <title>Protecting Devices from Click-Fraud</title>
-      <link>http://cs.queensu.ca/~iqbal/project/cf/</link>
+      <link>http://shahreariqbal.com/project/cf/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/project/cf/</guid>
+      <guid>http://shahreariqbal.com/project/cf/</guid>
       <description>&lt;p&gt;Pay-Per-Click (PPC) ad networks charge advertisers for every click on their ads. Click-fraud happens when a user or an automated software clicks on an ad with a malicious intent and advertisers need to pay for those valueless clicks. Click-fraud has been proved to be a serious problem for the online advertisement industry. Although it has attracted much attention from the security community, the direct victims of click-fraud, the advertisers, still lack confidence in the click-fraud detection techniques. Among many forms of click-fraud, botnets with the automated clickers are the most severe ones. In this project, we present a technique for detecting automated clickers from the user side.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Droid Mood Swing (DMS): Automatic Security Modes based on Contexts</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/dms/</link>
+      <link>http://shahreariqbal.com/publication/dms/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/dms/</guid>
+      <guid>http://shahreariqbal.com/publication/dms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Internet users from becoming victimized attackers of click-fraud.</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/cfj/</link>
+      <link>http://shahreariqbal.com/publication/cfj/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/cfj/</guid>
+      <guid>http://shahreariqbal.com/publication/cfj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flamingo: A Framework for Smartphone Security Context Management</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/flamingo/</link>
+      <link>http://shahreariqbal.com/publication/flamingo/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/flamingo/</guid>
+      <guid>http://shahreariqbal.com/publication/flamingo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZoneDroid: Control your Droid through Application Zoning</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/zonedroid/</link>
+      <link>http://shahreariqbal.com/publication/zonedroid/</link>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/zonedroid/</guid>
+      <guid>http://shahreariqbal.com/publication/zonedroid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM: A Secure Anti-Malware Framework for the 	Smartphone Operating Systems</title>
-      <link>http://cs.queensu.ca/~iqbal/publication/sam/</link>
+      <link>http://shahreariqbal.com/publication/sam/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/publication/sam/</guid>
+      <guid>http://shahreariqbal.com/publication/sam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
-      <link>http://cs.queensu.ca/~iqbal/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://shahreariqbal.com/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/post/getting-started/</guid>
+      <guid>http://shahreariqbal.com/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -148,46 +147,15 @@
 &lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
 &lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
 &lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;http://cs.queensu.ca/~iqbal/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;http://shahreariqbal.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
 &lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
 &lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
 &lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
 &lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#installation&#34;&gt;Installation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#getting-started&#34;&gt;Getting Started&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#core-parameters&#34;&gt;Core parameters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#introduce-yourself&#34;&gt;Introduce yourself&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#customize-the-homepage&#34;&gt;Customize the homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#add-your-content&#34;&gt;Add your content&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#customization-updating&#34;&gt;Customization &amp;amp; updating&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#advanced-customization&#34;&gt;Advanced customization&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#navigation-menu&#34;&gt;Navigation menu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#website-icon&#34;&gt;Website icon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#analytics&#34;&gt;Analytics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#language-and-translation&#34;&gt;Language and translation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#permalinks&#34;&gt;Permalinks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#advanced-style-customization-css&#34;&gt;Advanced style customization (CSS)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#updating&#34;&gt;Updating&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;/p&gt;
 
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 
@@ -246,15 +214,15 @@ cd my_website
 
 &lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;http://cs.queensu.ca/~iqbal/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;http://shahreariqbal.com/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
 
 &lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
 
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;http://cs.queensu.ca/~iqbal/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;http://shahreariqbal.com/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
 
 &lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://cs.queensu.ca/~iqbal/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://shahreariqbal.com/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
 
@@ -424,10 +392,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Customizing the homepage with widgets</title>
-      <link>http://cs.queensu.ca/~iqbal/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://shahreariqbal.com/post/widgets/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0300</pubDate>
       
-      <guid>http://cs.queensu.ca/~iqbal/post/widgets/</guid>
+      <guid>http://shahreariqbal.com/post/widgets/</guid>
       <description>
 
 &lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
@@ -451,10 +419,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 &lt;p&gt;The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of &lt;code&gt;+++&lt;/code&gt;) for each widget installed in the &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting &lt;code&gt;list_format = 2&lt;/code&gt; in &lt;code&gt;content/home/publications.md&lt;/code&gt;.&lt;/p&gt;
+  
+By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting `list_format = 2` in `content/home/publications.md`.
 
 &lt;/div&gt;
-
 
 &lt;h2 id=&#34;add-a-widget-to-the-homepage&#34;&gt;Add a widget to the homepage&lt;/h2&gt;
 
